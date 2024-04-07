@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "contact@v38armageddon.net",
+                "Name": "v38armageddon"
+            }
+        ],
+        "Category": "",
+        "Description": "Vincent OS Splashscreen used in Vincent OS linux distro.",
+        "Id": "Vincent-OS",
+        "License": "GPLv3",
+        "Name": "Vincent-OS",
+        "Website": "https://github.com/Vincent-OS/splashscreen"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
