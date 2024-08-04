@@ -130,9 +130,8 @@ Image {
     }
 
     function viewLoadingText() {
-        opacityAnimation.from = 0;
-        opacityAnimation.to = 1;
-        opacityAnimation.running = true;
+            opacityAnimation.from = 0;
+            opacityAnimation.to = 1;
+            opacityAnimation.running = true;
     }
-
 }
